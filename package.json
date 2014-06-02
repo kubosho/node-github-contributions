@@ -1,5 +1,5 @@
 {
-  "name": "node-github-contributions",
+  "name": "github-contributions",
   "version": "0.0.1",
   "author": "kubosho_ <ta2@o2p.jp> (http://blog.o2p.jp)",
   "description": "GitHub Contributions API implementation for Node.js (unofficial).",
