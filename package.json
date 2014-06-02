@@ -1,0 +1,25 @@
+{
+  "name": "node-github-contributions",
+  "version": "0.0.1",
+  "description": "TBD",
+  "main": "github-contributions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kubosho/node-github-contributions.git"
+  },
+  "keywords": [
+    "GitHub"
+  ],
+  "author": "kubosho_ <ta2@o2p.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kubosho/node-github-contributions/issues"
+  },
+  "homepage": "https://github.com/kubosho/node-github-contributions",
+  "dependencies": {
+    "superagent": "^0.18.0"
+  }
+}
