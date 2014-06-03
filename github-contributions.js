@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 var request = require('superagent'),
-    utils = require('./utils');
+    utils = require('./lib/utils');
 
 module.exports = {
     fetch: function (user, callback) {
