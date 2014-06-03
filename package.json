@@ -21,5 +21,10 @@
   "homepage": "https://github.com/kubosho/node-github-contributions",
   "dependencies": {
     "superagent": "^0.18.0"
+  },
+  "devDependencies": {
+    "power-assert": "^0.7.2",
+    "espower-loader": "^0.7.1",
+    "intelli-espower-loader": "^0.1.0"
   }
 }
