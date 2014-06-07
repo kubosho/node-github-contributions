@@ -12,7 +12,7 @@ module.exports = {
 
         request.get(URI)
                .end(function (res) {
-                   return callback(utils.toJSON(res.body, res.statusCode));
+                   return callback(utils.toJSON(res.body), res.statusCode);
                });
     }
 }
