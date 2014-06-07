@@ -5,8 +5,11 @@
   "description": "GitHub Contributions API implementation for Node.js (unofficial).",
   "license": "MIT",
   "main": "github-contributions.js",
+  "directories": {
+    "test": "test/"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --require intelli-espower-loader test/*.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +28,7 @@
   "devDependencies": {
     "power-assert": "^0.7.2",
     "espower-loader": "^0.7.1",
-    "intelli-espower-loader": "^0.1.0"
+    "intelli-espower-loader": "^0.1.0",
+    "mocha": "^1.20.1"
   }
 }
