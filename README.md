@@ -27,4 +27,4 @@ contributions.fetch(':github-username', function(res, statusCode) {
 
 ## License
 
-[MIT License]https://github.com/kubosho/node-github-contributions/blob/master/LICENSE)
+[MIT License](https://github.com/kubosho/node-github-contributions/blob/master/LICENSE)
