@@ -9,7 +9,7 @@
     "test": "test/"
   },
   "scripts": {
-    "test": "mocha --require intelli-espower-loader test/*.js"
+    "test": "mocha --require intelli-espower-loader --timeout 5000 test/*.js"
   },
   "repository": {
     "type": "git",
