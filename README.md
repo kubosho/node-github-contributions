@@ -1,6 +1,8 @@
 node-github-contributions
 =========================
 
+**Not working ! (because GitHub specification change)**
+
 GitHub Contributions API implementation for Node.js (unofficial).
 
 [![Build Status](https://travis-ci.org/kubosho/node-github-contributions.svg?branch=master)](https://travis-ci.org/kubosho/node-github-contributions)
