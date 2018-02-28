@@ -1,4 +1,4 @@
-node-github-contributions
+[Unmainted] node-github-contributions
 =========================
 
 **Not working ! (because GitHub specification change)**
